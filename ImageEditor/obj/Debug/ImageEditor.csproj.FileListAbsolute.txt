@@ -1,0 +1,10 @@
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\CodeTesting\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\CodeTesting\ImageEditor\bin\Debug\ImageEditor.exe
+D:\CodeTesting\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.exe
+D:\CodeTesting\ImageEditor\obj\Debug\ImageEditor.pdb
